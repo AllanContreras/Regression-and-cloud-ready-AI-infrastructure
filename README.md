@@ -186,15 +186,6 @@ Combined with hydrostatic equilibrium (R ∝ M):
 
 ---
 
-## Reproducibility
-
-To reproduce all results:
-
-1. **Clone/download repository**
-2. **Ensure Python 3.8+ with NumPy and Matplotlib**
-3. **Execute notebooks cell-by-cell or using "Run All"**
-4. **All data is hard-coded** (no external files needed)
-5. **All plots are generated inline** (no external visualization tools required)
 
 ---
 
