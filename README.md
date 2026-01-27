@@ -125,6 +125,13 @@ $$J(w, b) = \frac{1}{n} \sum_{i=1}^{n} (\hat{L}_i - L_i)^2$$
 
 ## AWS SageMaker Execution Evidence
 
+<img width="956" height="474" alt="general" src="https://github.com/user-attachments/assets/b74c3957-b8a2-411d-a923-dca39c8b3f54" />
+
+## Part 1
+<img width="684" height="340" alt="1-1" src="https://github.com/user-attachments/assets/483e3bcd-5967-4dd8-8f05-68600e7221fc" />
+
+
+
 ### How to Upload and Run
 
 1. **Create SageMaker Instance:**
