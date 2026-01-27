@@ -136,6 +136,9 @@ $$J(w, b) = \frac{1}{n} \sum_{i=1}^{n} (\hat{L}_i - L_i)^2$$
 <img width="785" height="431" alt="1-5" src="https://github.com/user-attachments/assets/23d3b4a0-ad78-4228-838b-def0ac2eeb59" />
 
 <img width="811" height="469" alt="1-6" src="https://github.com/user-attachments/assets/71d95a3a-de38-4085-9e06-e0f94e06e8e8" />
+## part 2
+<img width="712" height="352" alt="2-1" src="https://github.com/user-attachments/assets/d2a24eb7-4d77-4595-af0f-fc9fbb0893cf" />
+
 
 
 
